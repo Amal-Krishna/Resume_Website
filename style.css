@@ -1,0 +1,48 @@
+.tab{
+    display: none;
+}
+
+body{
+    background-color:#f4f4f4;
+    font-family: Arial,Sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.objective{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+    border-top: black 3px solid;
+    border-bottom: black 3px solid;
+}
+
+
+
+body img{
+    float: right;
+    margin-top: -175px;
+    margin-right: 200px;
+}
+
+.row{
+    text-align: right;
+}
+
+.col-sm-4{
+    text-align: left;
+    border-left: black 2px solid;
+}
+
+.col-sm-12{
+    text-align: left;
+    margin-top: 30px;
+    border-bottom: black 3px solid;
+}
+
+body table{
+    margin-top: 30px;
+}
